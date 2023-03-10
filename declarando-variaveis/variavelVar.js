@@ -21,3 +21,5 @@ console.log(largura); // undefined
 // var pode ser declarada sem valor e reatribuída
 largura = 10;
 console.log(largura); // 10
+
+// teste
