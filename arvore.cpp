@@ -81,6 +81,7 @@ int main()
   imprimirAltura(minhaArvore.raiz);
   
   imprimirArvore(minhaArvore);
-
+  
+  cout << endl;
   return 0;
 }
